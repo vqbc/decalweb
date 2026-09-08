@@ -13,8 +13,8 @@
   date: 9/08/2026
   name: History of UNIX, Intro to Linux, FOSS
   labdue: Sat. 9/12
-  hidelink: true
-  slides: https://blog.jaysa.net/2025/09/09/intro-to-linux-and-foss/
+  hidelink: false
+  slides: https://www.ocf.berkeley.edu/~erdaifuu/posts/week-1/
   video: 
 
 - id: 2
